@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - David C. Stieg
+AU  - Katrina F. Cooper
+PY  - 2017/09/01
+Y2  - 2019/12/25
+TI  - Parkin New Cargos: a New ROS Independent Role for Parkin in Regulating Cell Division
+JF  - Reactive Oxygen Species
+JA  - ROS
+VL  - 2
+IS  - 5
+SE  - Review Articles
+DO  - 
+UR  - https://aimsci.com/ros/index.php/ros/article/view/51
+AB  - Cell cycle progression requires the destruction of key cell cycle regulators by the multi-subunit E3 ligase called the anaphase promoting complex (APC/C). As the cell progresses through the cell cycle, the APC/C is sequentially activated by two highly conserved co-activators called Cdc20 and Cdh1. Importantly, APC/CCdc20 is required to degrade substrates in G2/M whereas APCCdh1 drives the cells into G1. Recently, Parkin, a monomeric E3 ligase that is required for ubiquitin-mediated mitophagy following mitochondrial stress, was shown to both bind and be activated by Cdc20 or Cdh1 during the cell cycle. This mitotic role for Parkin does not require an activating phosphorylation by its usual kinase partner PINK. Rather, mitotic Parkin activity requires phosphorylation on a different serine by the polo-like kinase Plk1. Interestingly, although ParkinCdc20 and ParkinCdh1 activity is independent of the APC/C, it mediates degradation of an overlapping subset of substrates. However, unlike the APC/C, Parkin is not necessary for cell cycle progression. Despite this, loss of Parkin activity accelerates genome instability and tumor growth in xenograft models. These findings provide a mechanism behind the previously described, but poorly understood, tumor suppressor role for Parkin. Taken together, studies suggest that the APC/C and Parkin have similar and unique roles to play in cell division, possibly being dependent upon the different subcellular address of these two ligases.
+ER  -

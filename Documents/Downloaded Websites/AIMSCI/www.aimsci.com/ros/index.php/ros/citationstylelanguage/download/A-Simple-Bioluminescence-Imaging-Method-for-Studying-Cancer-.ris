@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Hong Zhu
+AU  - Megan E. Kauffman
+AU  - Michael A. Trush
+AU  - Zhenquan Jia
+AU  - Y. Robert Li
+PY  - 2018/03/01
+Y2  - 2019/12/25
+TI  - A Simple Bioluminescence Imaging Method for Studying Cancer Cell Growth and Metastasis after Subcutaneous Injection of Lewis Lung Carcinoma Cells in Syngeneic C57BL/6 Mice
+JF  - Reactive Oxygen Species
+JA  - ROS
+VL  - 5
+IS  - 14
+SE  - ROS Protocols
+DO  - 
+UR  - https://aimsci.com/ros/index.php/ros/article/view/140
+AB  - In vivo imaging of cancer cell growth and invasion is instrumental in studying cancer cell behavior and in developing effective anticancer agents. In this ROS Protocols article, we report the experimental protocol and steps involving the implantation of luciferase-expressing Lewis lung carcinoma (LLC) cells in normal syngeneic C57BL/6 mice. Using the Berthold NightOwl LB981 in vivo imaging system, we observe the time-dependent growth and invasion of the lung cancer cells following subcutaneous injection of luciferase-expressing LLC cells. The three-dimensional image and counts of photon emission of the tumor mass are obtained to estimate the relative size of the tumor. Ex vivo imaging of the isolated lungs supplemented with D-luciferin and adenosine triphosphate (ATP) is obtained to determine lung metastasis of the LLC cells. The LLC cell load in entire mouse lungs is further determined by quantitative bioluminometry with a concurrently run standard curve of the number of LLC cells versus bioluminescence intensity. This in vivo imaging system in live mice, in combination with ex vivo imaging of isolated lungs as well as quantitative bioluminometry of target tissues, may provide important information on the in vivo cancer cell dynamics in immunocompetent syngeneic C57BL/6 mice and offer a valuable tool for studying experimental anticancer agents, including redox-modulating compounds, which are promising anticancer modalities.
+ER  -
